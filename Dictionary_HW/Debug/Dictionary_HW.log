@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yser\Desktop\Dictionary_HW\Dictionary_HW\main.cpp(31,6): warning C4101:  n: неиспользованная локальная переменная
+  Dictionary_HW.vcxproj -> C:\Users\yser\Desktop\Dictionary_HW\Debug\Dictionary_HW.exe
